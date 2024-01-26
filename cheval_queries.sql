@@ -12,16 +12,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'ba917abf-bed1-49d0-ad96-35aea0d1bd41', 
+                    '66fb6086-e986-4598-8a76-1ca4a27a65d4', 
                     'VIKING DU GOHLENN (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -39,16 +39,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'b8a703cb-76af-40c9-bc19-74f3965b175c', 
+                    'd98247b4-00c0-4c2b-baf4-d8d2510bf20c', 
                     'DEFI SOMOLLI (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -66,16 +66,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '3b1668a3-3bc7-4c9a-8350-93b5598b8e61', 
+                    '9955ab6c-b105-4959-9755-8a01d64b574a', 
                     'VYGNUS DE GUERON (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -93,16 +93,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '079416e2-3770-40ec-8f74-2dfc515dcfdd', 
+                    '1ed06bf7-0dfa-47ff-a133-c37f01182b44', 
                     'ALLIANCE DE BOUERE (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'F', 
                     'Alazán', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -120,16 +120,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '31dc31f4-98ee-4679-881f-ccf1fea4e39e', 
+                    '1c2890ac-0735-4269-b4b7-f779e949fd22', 
                     'VITAL (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -147,16 +147,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '6cfd7108-a7ff-49e5-a684-ca7ba7e1cf39', 
+                    'e8808711-cb53-48b9-be6d-5591fac7affc', 
                     'BEQUIA D'USSEDA (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -174,16 +174,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'eb20bfad-ca3d-4131-96e7-840c1555100c', 
+                    '6e5cf96a-84aa-4de8-b0e7-4eabb525566a', 
                     'BIBI DU GAVREGUET (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -201,16 +201,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'ed48d127-abe0-4652-9568-9fac14ca789f', 
+                    'e98dbf26-1428-4540-95e5-c1a5def5bd36', 
                     'DAIM DU RUISSEAU (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Negro', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -228,16 +228,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'd1c4aaf0-aca7-4a3b-ae3e-2d0312a89ebd', 
+                    '2ea690b3-8963-4b31-ad5d-1cccf6cfac98', 
                     'VINCI DU LILAS (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -255,16 +255,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'cc71746f-e857-4b10-9bec-d32e78357ef6', 
+                    '3636d3ef-a9b8-4f57-922d-2b3bd72b9874', 
                     'ABAKOU (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Negro', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -282,16 +282,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '04e6c731-a974-45ee-9a76-83854eaa3c9d', 
+                    'b6cd6aa5-0180-4cbb-be46-2217ee264b7d', 
                     'BOXEUR DES BAUX (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Negro', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -309,16 +309,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '0c43b68b-e090-4ef2-9c99-1d793e7c0c52', 
+                    '90c3e948-647d-4237-900c-a3ea2355f9ca', 
                     'BOSS D'OURVILLE (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño Oscuro', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -336,16 +336,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '98693301-2b79-47b0-986b-75310e4e91ba', 
+                    '3550de6f-ae54-4dbb-9802-8c10bfdb14e7', 
                     'BIJOU DU TRESOR (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -363,16 +363,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '749ac8f9-67a5-4b7f-9704-e42e4be5fa28', 
+                    '5502a47c-c1fd-4005-ae65-ca0bdfcb055a', 
                     'BACCARAT DU DOLLAR ( FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 17:30:00', 
+                    '2021-05-29 17:30:00', 
                     'active'
                 );
             
@@ -390,16 +390,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '5052aef8-e539-4692-b757-9631daf5cb25', 
+                    '88c1f1dc-7c00-44b9-94e1-09fefb7a5a5b', 
                     'HEREU DE LADIL', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:00:00', 
+                    '2021-05-29 18:00:00', 
                     'active'
                 );
             
@@ -417,16 +417,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'fdc7695a-5ccd-41a8-809c-176b923eba63', 
+                    '15baaeef-7e7c-4453-afef-6b78882d24a4', 
                     'HURACAN DE FONT', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:00:00', 
+                    '2021-05-29 18:00:00', 
                     'active'
                 );
             
@@ -444,16 +444,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '78a5a34a-b6ee-4e04-945c-41a09dbde01f', 
+                    '2835d450-67ab-416a-b104-1a54fd8e3ba0', 
                     'HOLANDES STAR', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:00:00', 
+                    '2021-05-29 18:00:00', 
                     'active'
                 );
             
@@ -471,16 +471,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'e7830776-f88a-4c57-a389-b135487ddc30', 
+                    '0e935b85-63ff-4e74-ab4a-ae7c4f8088f3', 
                     'HEIDI WEST', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:00:00', 
+                    '2021-05-29 18:00:00', 
                     'active'
                 );
             
@@ -498,16 +498,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '7c23a70e-e2c5-4f97-8744-db445a415ade', 
+                    '3139e563-5a30-48bb-913e-dabe9c35646f', 
                     'HECTOR', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:00:00', 
+                    '2021-05-29 18:00:00', 
                     'active'
                 );
             
@@ -525,16 +525,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'c432c676-5fdf-4f0d-97a9-3468868a31ab', 
+                    '9382793c-9503-47fc-8d98-0965be2d2b4e', 
                     'HIGORAIL', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Negro', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:00:00', 
+                    '2021-05-29 18:00:00', 
                     'active'
                 );
             
@@ -552,16 +552,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '6eb9fc3f-cd4f-4c36-ac03-7dcdc7d3d205', 
+                    '078de819-4ac8-4582-b93d-ea7895d26be7', 
                     'HELEN SAS', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:00:00', 
+                    '2021-05-29 18:00:00', 
                     'active'
                 );
             
@@ -579,16 +579,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'b5de1eb2-1dbc-4262-af76-2e457c49684f', 
+                    '0256a660-9266-4b37-bfb2-08f054b27c85', 
                     'HOSOL POU RAFAL', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:00:00', 
+                    '2021-05-29 18:00:00', 
                     'active'
                 );
             
@@ -606,16 +606,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '07b19566-4440-43de-8ef3-1e9a668294f1', 
+                    '0b10e22a-2ebe-4e00-a051-ec0641cbf059', 
                     'HURACAN GARBO', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -633,16 +633,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'b52fb0ff-42c2-41ff-91bf-dd9199628647', 
+                    '2787f431-d1a2-4c32-a97c-191cae6833c4', 
                     'HORSE POWER', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -660,16 +660,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '9084a42d-0030-4c73-91fa-db3f01ad991d', 
+                    'd2660715-3d41-4abe-8f44-e4abf6b35822', 
                     'HABANA CROWN', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -687,16 +687,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '28ad67c8-1979-4608-9209-981835c316f4', 
+                    'a2420848-fa0a-445d-8b9d-310f5f107261', 
                     'HAMMER PHOTO', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -714,16 +714,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '660ec3bf-015f-4885-8d12-dbb685d6d2a7', 
+                    '1b0b0304-6de3-43f2-99b9-13496ec0d2ec', 
                     'GAS VENTURA', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -741,16 +741,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '87b06bb1-02c6-4f72-ba59-a292d17759e2', 
+                    'f6b90198-be80-4c16-94aa-e99b5afb2e08', 
                     'ESTEL DE NURIA', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -768,16 +768,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '51b75f4f-5697-4f45-9844-1b6497ea333d', 
+                    '859a6a40-7389-4803-8c08-1d6c3c2bb15f', 
                     'HOMER', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Negro', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -795,16 +795,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '876d2cae-b2f9-42f2-b589-79a9029e8b4e', 
+                    'd5bd23ad-b931-44a7-9ff8-63ce04b17514', 
                     'HARMONIA D'ARTA', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -822,16 +822,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'cbebedb7-35d0-408a-a28a-ec6d932957df', 
+                    'db22930f-aa4d-4ed3-bc94-a5e137a8fe52', 
                     'HISTORIA DE MAIG', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Alazán', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -849,16 +849,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'd8aac19e-d788-4e87-965d-40387f6ce19d', 
+                    'ae91a48a-1ead-4e4e-b322-16cf6feb300a', 
                     'HEMISFERI DE NIT', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -876,16 +876,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'ff188f69-6363-4a94-af54-f65b9beac793', 
+                    '69c2564e-bac3-46ab-81e2-d51231a79c14', 
                     'GUAPA DE FLO', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Alazán', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -903,16 +903,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '4fd062f0-e3d4-4a45-b56a-099010c03ddf', 
+                    '1ea6c69a-16d5-4a32-85df-74e3276f9061', 
                     'HEROI Z', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -930,16 +930,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '8bac3f7d-42fa-4d92-900a-5c71246330c4', 
+                    'a38aea05-9dd3-4a08-981e-abb231bc9a24', 
                     'HUDSON SE', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 18:30:00', 
+                    '2021-05-29 18:30:00', 
                     'active'
                 );
             
@@ -957,16 +957,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '1786db2e-e69e-47b0-bdfa-2e33cd9c8db7', 
+                    '1672e709-8472-4342-afec-001b91e17876', 
                     'HISTORIC BS', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -984,16 +984,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '5548ecea-3090-4d7a-b853-7563b581ec3e', 
+                    'ac60302f-75cd-4ed8-94ec-2fbddfbc27b2', 
                     'HANA GS', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1011,16 +1011,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'f857cb63-165f-4f22-af21-5d5e416d93aa', 
+                    'c0964e27-2cf8-4177-98e9-b480f2f2b159', 
                     'HANUMAN STAR', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1038,16 +1038,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '9e70ad93-5811-406f-b3b7-33ebe37a8ed5', 
+                    '59128423-7ffb-4253-a174-969ecf473539', 
                     'GALEA YC', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1065,16 +1065,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'f2d62475-c752-4399-b22f-74be58cdcfd2', 
+                    'e6f7afd7-6309-4784-9754-16ccdef4ea42', 
                     'GRESCA DES LLORER', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1092,16 +1092,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '569a0059-724d-4bb8-8196-15d72864bcee', 
+                    '9a71843a-1ad1-49d2-aa0f-a3efab971849', 
                     'FLETXA', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1119,16 +1119,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '78e6eb62-0526-42db-9ce8-98a01d0b505c', 
+                    '95f87a4d-15d2-442e-b948-6b6116aa9b95', 
                     'HIJA DE PARIS HM', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1146,16 +1146,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'b8859e90-3651-4acb-9446-98c78f143918', 
+                    'c0a85f87-f711-4bae-88f9-d2bf4cc11e6f', 
                     'HAYAYAY D'ESCAFI', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Alazán', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1173,16 +1173,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '8eb906c8-3bcd-4f3a-ae4f-d967659f5e79', 
+                    'acb225a0-1b5b-4023-998d-c23c7be26b0e', 
                     'HELEN GS', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1200,16 +1200,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'c85f6e65-84d6-4542-ab3e-3ef3732ee991', 
+                    '32653047-6f72-4496-8eaa-a2263b073af0', 
                     'GINEBRO CM', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1227,16 +1227,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'ae8c2d0f-020b-45c1-83d7-4210b4cfa32d', 
+                    'c4f617af-fe77-47de-8b34-793f90937fde', 
                     'HAWAII CROWN', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1254,16 +1254,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '66ecd67d-740e-427f-92a4-3f5aba03ed0f', 
+                    'fdcada40-ac08-46fb-83c7-67124891e314', 
                     'GIGI L'AMOROSO', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1281,16 +1281,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'a374d1e6-1b48-4295-ab20-e93584805afe', 
+                    'f825159f-0f87-4429-a6a3-4074c5cd5418', 
                     'GAMBA DI DONNA', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1308,16 +1308,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '085ef8b8-6a37-4c44-9124-3045449d3046', 
+                    'b0ab03a1-971b-4b6b-aff2-ce23a34591df', 
                     'HAPPY GIRL RV', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1335,16 +1335,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '32c47187-1a45-4cd9-b7c4-fc14bdeb420c', 
+                    '71865011-814c-45cd-a898-751a65aa1977', 
                     'GOOD MORNING', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1362,16 +1362,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '62fe83c7-7326-4599-b6bc-0a7cc51e5f8a', 
+                    '86bccfcf-16b0-4f5d-b373-73d03e15d4ea', 
                     'HELENA DIR', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:00:00', 
+                    '2021-05-29 19:00:00', 
                     'active'
                 );
             
@@ -1389,16 +1389,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '91870050-804d-4404-a9fc-2036e0adaaf1', 
+                    '44ff3989-723e-4ca7-9d22-f5935574e294', 
                     'BASCO DE VILLODON (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1416,16 +1416,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '17d0614d-aa63-49d7-a248-c5dfbb49679e', 
+                    'f29913e1-2d44-4f9b-93a7-67253a4f95be', 
                     'AS DE MUZE (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1443,16 +1443,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '1b878322-353c-4dfc-aaaf-698e7e86cc52', 
+                    '22771842-b40f-4f6e-b636-84ec6cd4049c', 
                     'ALTO DU LYS (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1470,16 +1470,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'f20e23cd-b457-4f99-bec6-96dfa877a53f', 
+                    '7c6f9d6f-7a2f-4d8b-8b90-f05ab17870c8', 
                     'BLOODY DES RIOULTS (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1497,16 +1497,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '5987e792-1f1d-4789-a5b9-b0d86c3dea9b', 
+                    '541d7df7-024f-44ae-9341-56300c05e846', 
                     'BIKINI (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1524,16 +1524,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'fb1da7ff-0268-4494-ac48-5c88bd2b2fd9', 
+                    '170967a4-6c38-4053-9231-9b96ec3511eb', 
                     'ATHOS DE MARLAU (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1551,16 +1551,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'f48dba7b-0e4f-47d3-9d87-63040fea4fdf', 
+                    '7b636902-b816-425a-93f2-85083ae3e1ee', 
                     'ARTHURO BOY (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1578,16 +1578,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '0f8f6268-9030-481d-bc1b-0a976c7ad877', 
+                    '78447e1b-f3fb-4706-9ef6-663c2d58de1d', 
                     'BLACK (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1605,16 +1605,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'a23e2ac0-2426-4c69-8aee-4c8353eda056', 
+                    'fde433ab-108f-46af-bad2-b75e5669d70a', 
                     'CABERLOT (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1632,16 +1632,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '8f15a799-f087-47c5-9534-de9128af49e2', 
+                    '8f97158c-68c8-4202-8044-4e69cefde068', 
                     'BEAUTIFUL ELDE (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño Oscuro', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1659,16 +1659,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '9588111f-887d-4327-a3c4-457ee8670bc0', 
+                    '3c52fa1e-2842-43e6-a93c-7fe09c00db0e', 
                     'VARIUSO DU BOUFFEY (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1686,16 +1686,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '5d505972-3023-4af5-893d-472da8f86581', 
+                    'd6211241-f6c5-4369-8e7b-c477ec7b3be0', 
                     'BACCHUS D'ELA (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Negro', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 19:30:00', 
+                    '2021-05-29 19:30:00', 
                     'active'
                 );
             
@@ -1713,16 +1713,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '8fa0c577-89d3-4ae5-990b-20478a3d0d35', 
+                    '578615e8-14da-4530-b7a5-504ffa13da9f', 
                     'CALIN FLEURI (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -1740,16 +1740,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '90da9e59-89bb-45eb-9cc6-7d3cbd75575d', 
+                    'dc40d06d-e8d6-45d0-880f-b7c517d7ecaf', 
                     'BRESIL (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -1767,16 +1767,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '54a448cd-7fc8-4758-9904-ca77f383f97a', 
+                    '9fa92711-e896-4e0a-acd8-ad945d68b845', 
                     'CAMANA (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -1794,16 +1794,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '81805dd3-7f25-4390-819e-ac5de44114d5', 
+                    'df4c67cc-e59f-4e7a-aec1-251d9a86edb9', 
                     'DAILY CASH (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -1821,16 +1821,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '28769c7b-2570-4d1a-8985-a41eb5fb7c4d', 
+                    '7ad44f1a-1a79-4a35-95a7-dae2a746f337', 
                     'DJANGO BELLO (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -1848,16 +1848,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '969c4a99-0629-485a-8c52-929e14363d7c', 
+                    '37203362-ae73-4755-ab26-87c493dce800', 
                     'CALDERON DE PUCH (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -1875,16 +1875,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'c92f3bbe-4f1f-469b-94a7-103d4e76588b', 
+                    'e8cd055b-df93-4087-aab1-18b23d2ee7b9', 
                     'BEAUJEU (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Negro', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -1902,16 +1902,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '0451efa4-5881-4e70-9b96-16ecafe070b3', 
+                    'd3199dcb-5a89-4bf8-87b6-15d31fde7821', 
                     'BEST RIVER (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -1929,16 +1929,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '61696c37-997a-45eb-8817-ae3d3cbbb3e9', 
+                    '3425ff97-ddea-46d1-858e-17ca27e15428', 
                     'CADRAN DU CHATELET (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -1956,16 +1956,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '2dccae57-7213-4198-88fb-5d0d0ff55875', 
+                    '9afac70a-51cc-4a75-bcdd-34b0eaa8a4ee', 
                     'DINKY BOY VISAIS (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -1983,16 +1983,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '95f5f2d3-2947-483e-ac6a-364fa67387cd', 
+                    'f15b12f9-a1ad-4139-9bc5-f9a73100070b', 
                     'BRAHMS DU BRILET (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -2010,16 +2010,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '21ee491d-b309-4d78-afda-b57f2d7ca615', 
+                    '624712f7-3f4e-4a28-85a5-d7dbd19086c4', 
                     'BLACK DU BOUILLON (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -2037,16 +2037,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'e91feb75-0976-4b55-923d-32523bff2f58', 
+                    'df8cca4b-010e-4beb-b3fa-ffd15f1a74ee', 
                     'BACCARAT DESBOIS (FR)', 
                     'FRA', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:00:00', 
+                    '2021-05-29 20:00:00', 
                     'active'
                 );
             
@@ -2064,16 +2064,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '3958b311-11ba-49c1-b795-08e30bb295db', 
+                    'b9805394-3aa4-400a-bdb5-e9b7709ffb29', 
                     'FUM WEST', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2091,16 +2091,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'ba22f2f5-966b-4f49-88de-938a51ededbc', 
+                    'fda0b631-3048-4512-91ed-e314dacc6d33', 
                     'ELECTRIC ATAC', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2118,16 +2118,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '32d968e1-b23e-4421-bea9-4d327198f783', 
+                    '5993878e-f138-4016-8715-c8efaa1672ba', 
                     'EUFORIA LOVER', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2145,16 +2145,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '3c70f311-071a-4895-84df-e1056606fff3', 
+                    '28a61c0c-e107-48f5-8a6c-e99be42d7a1f', 
                     'FANTASIA D'ESCANDOL', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2172,16 +2172,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '66317cff-9e25-4f6d-98fb-d0ed46b4f902', 
+                    'f868217a-6433-4476-b8a4-992df5080e55', 
                     'GOLD BLACK', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Negro', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2199,16 +2199,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'fd81b109-191a-4573-b740-d9edf7a4ef2c', 
+                    'bc44d6a4-a160-4d1f-9450-3637e6c9c337', 
                     'FLAIXMATAIX WING', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2226,16 +2226,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '1dd189c1-71b9-4cb7-8269-e627bb600c88', 
+                    '4287d0f4-75cf-4f69-9a8b-3369123be007', 
                     'EXPLOSIVE ATAC', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Negro', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2253,16 +2253,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'ac1aa5f0-fb5d-4ca2-869a-09554c0388b0', 
+                    'd567514c-f29c-4186-9886-ad9d78c9e0ae', 
                     'FANFAN D'ESCAFI', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2280,16 +2280,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '9ab1eca9-5cfb-4431-ad12-013013907659', 
+                    '0f190f96-86df-4f88-ac81-89b70be91a7c', 
                     'FURIOSA SS', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2307,16 +2307,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '7f9e1a09-907b-4d4b-b10e-63defa1325d3', 
+                    'e628f30a-0907-48f3-9f0f-0a9e08d2090c', 
                     'BRUIX DE FONT', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2334,16 +2334,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '32794281-d61b-495e-9234-b4978021e879', 
+                    '872bd96c-1bd0-473f-8c79-5094d3178c59', 
                     'GALA DES NELLS', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2361,16 +2361,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '08424ab8-3f7a-4938-9e92-18addc16673b', 
+                    '7eb681cd-06c3-47e9-a1a8-3bf484f3c50b', 
                     'EBEK HANOVER', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2388,16 +2388,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'c17eb004-ff7f-49fb-b552-883a6b5733b2', 
+                    '258a4442-9e2c-449a-b9a9-dd32c0c83ecf', 
                     'ELL DE CASTELLET', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2415,16 +2415,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '094fc6a1-97d3-4111-b450-8355a679ac6b', 
+                    'a8dd74dd-f08c-448d-aba8-99b7539eaf37', 
                     'FLYNN JUNIOR', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 20:30:00', 
+                    '2021-05-29 20:30:00', 
                     'active'
                 );
             
@@ -2442,16 +2442,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '38679fc5-2073-43b7-965f-15aaae4e0586', 
+                    'd8ba0c58-7bc5-4f45-a330-4f00bad29b1c', 
                     'EMOCION BS', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 21:00:00', 
+                    '2021-05-29 21:00:00', 
                     'active'
                 );
             
@@ -2469,16 +2469,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '66ae7c51-bc54-4699-b70a-03aabda07147', 
+                    '0a7939dd-2da9-4e77-be06-f6606ce60065', 
                     'FUTUR DE LADIL', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 21:00:00', 
+                    '2021-05-29 21:00:00', 
                     'active'
                 );
             
@@ -2496,16 +2496,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '39ef5142-fb79-47be-90c5-3e897a211d00', 
+                    '69557aa4-2354-401b-bfc4-5a9970c135a3', 
                     'FRESQUET DE LLEVANT', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 21:00:00', 
+                    '2021-05-29 21:00:00', 
                     'active'
                 );
             
@@ -2523,16 +2523,16 @@
                     updated,
                     status
                 ) VALUES (
-                    'bece5e34-b98c-4cd9-b7e0-b62b68857589', 
+                    '9fc44060-0388-4773-98cf-bd0ad3c098fb', 
                     'DANDY DE LADIL', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    2021,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 21:00:00', 
+                    '2021-05-29 21:00:00', 
                     'active'
                 );
             
@@ -2550,16 +2550,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '53bed14d-98c5-4647-a117-d5d7a81fb3ce', 
+                    'd649eb79-80ee-4e62-8a4b-1159fd1ed859', 
                     'FENOMENAL', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Negro', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 21:00:00', 
+                    '2021-05-29 21:00:00', 
                     'active'
                 );
             
@@ -2577,16 +2577,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '03c44cae-9e26-42b5-aefb-4d786d08818d', 
+                    '0515d2f3-0229-4c19-95cb-f7157c315a4c', 
                     'ESTRELLA DURAN', 
                     'ESP', 
                     'Race non spécifiée', 
                     'F', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 21:00:00', 
+                    '2021-05-29 21:00:00', 
                     'active'
                 );
             
@@ -2604,16 +2604,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '141f54d7-714f-4128-9b21-1ef1485467ba', 
+                    '340fe952-6e80-476d-bf51-2ee0aca1d976', 
                     'BOB D'UDON', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Alazán', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 21:00:00', 
+                    '2021-05-29 21:00:00', 
                     'active'
                 );
             
@@ -2631,16 +2631,16 @@
                     updated,
                     status
                 ) VALUES (
-                    '088c1578-091a-407c-9a33-0c08127295aa', 
+                    '7009ff26-23ed-456d-9c66-c8a38b5faa19', 
                     'FAR WEST VX', 
                     'ESP', 
                     'Race non spécifiée', 
                     'M', 
                     'Castaño', 
-                    1905, 
-                    NULL,
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '1905', 
+                    'Castration année non spécifiée',
+                    '2021-05-29 21:00:00', 
+                    '2021-05-29 21:00:00', 
                     'active'
                 );
             

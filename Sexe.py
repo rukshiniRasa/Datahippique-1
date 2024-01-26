@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+from datetime import datetime
 
 # Chemin du fichier XML
 xml_file_path = 'C:/Users/ruksh/Downloads/bouchon_reunion_20210529-SON.xml'
@@ -16,30 +17,18 @@ with open(output_file_path, 'w') as file:
         race_name = race_item.find('./name').text
         race_time = race_item.find('./time').text
         race_date = root.find('./date').text
+        
+        # Convertir la date et l'heure au format MySQL 'YYYY-MM-DD HH:MM:SS'
+        datetime_format = '%d/%m/%Y %H:%M:%S'
+        mysql_format = '%Y-%m-%d %H:%M:%S'
+        datetime_object = datetime.strptime(f"{race_date} {race_time}", datetime_format)
+        mysql_datetime = datetime_object.strftime(mysql_format)
 
         for horse_item in race_item.findall('./results/item'):
             sex = horse_item.find('./sex').text
             castrado = horse_item.find('./castrado').text
 
-            if castrado == 'Y':
-                sex = 'H'
-
-            if sex == 'M':
-                label_fr = 'Mâle'
-                label_en = 'Male'
-                label_es = 'Macho'
-            elif sex == 'F':
-                label_fr = 'Femelle'
-                label_en = 'Female'
-                label_es = 'Hembra'
-            elif sex == 'H':
-                label_fr = 'Hongre'
-                label_en = 'Gelding'
-                label_es = 'Castrado'
-
-            created_updated = f"{race_date} {race_time}"
-
-            values = f"('{sex}', '[{{\"language\": \"fr\", \"label\": \"{label_fr}\"}}, {{\"language\": \"en\", \"label\": \"{label_en}\"}},{{\"language\": \"es\", \"label\": \"{label_es}\"}}]', '{created_updated}', '{created_updated}', 'active')"
+            values = f"('{sex}', '{castrado}', '{mysql_datetime}', '{mysql_datetime}', 'active')"
 
             sql_insert = f'''
                 INSERT INTO sexe (code_sexe_interne, libelle, created, updated, status)
@@ -53,5 +42,5 @@ with open(output_file_path, 'w') as file:
             # Écrire la requête dans le fichier
             file.write(sql_insert + "\n")
 
-# Confirmation que les requêtes ont été écrites
+# Confirmation que les requêtes SQL ont été écrites
 print(f"Les requêtes SQL ont été enregistrées dans {output_file_path}")

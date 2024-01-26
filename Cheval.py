@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 import uuid
+from datetime import datetime
 
 # Chemin du fichier XML
 xml_file_path = 'C:/Users/ruksh/Downloads/bouchon_reunion_20210529-SON.xml'
@@ -14,6 +15,14 @@ root = tree.getroot()
 with open(output_file_path, 'w') as file:
     for race_item in root.findall('.//races/item'):
         race_date = root.find('./date').text
+        race_time = race_item.find('./time').text
+        
+        # Convertir la date et l'heure au format MySQL 'YYYY-MM-DD HH:MM:SS'
+        datetime_format = '%d/%m/%Y %H:%M:%S'
+        mysql_format = '%Y-%m-%d %H:%M:%S'
+        datetime_object = datetime.strptime(f"{race_date} {race_time}", datetime_format)
+        mysql_datetime = datetime_object.strftime(mysql_format)
+
         for horse_item in race_item.findall('./results/item'):
             # Extraction des données
             horse_name = horse_item.find('./horse').text
@@ -26,8 +35,6 @@ with open(output_file_path, 'w') as file:
             # Générer un UUID pour chaque cheval
             cheval_id = str(uuid.uuid4())
 
-            # Convertir 'castrado' en 'annee_castration_cheval'
-            annee_castration = race_date.split('/')[2] if castrado == 'Y' else 'NULL'
 
             # Création de la requête SQL
             sql_insert = f'''
@@ -50,10 +57,10 @@ with open(output_file_path, 'w') as file:
                     'Race non spécifiée', 
                     '{sex}', 
                     '{colour}', 
-                    {born_year}, 
-                    {annee_castration},
-                    CURRENT_TIMESTAMP, 
-                    CURRENT_TIMESTAMP, 
+                    '{born_year}', 
+                    'Castration année non spécifiée',
+                    '{mysql_datetime}', 
+                    '{mysql_datetime}', 
                     'active'
                 );
             '''
